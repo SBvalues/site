@@ -744,12 +744,12 @@
 },
 {
 "name": "WinterWonderland",
-"val": 32500,
+"val": 308875,
 "crate": "frost",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202026-01-12%20151643.png",
 "rarity": "mythical",
-"chartData": [32500],
-"chartLabels": ["1/12/25"]
+"chartData": [32500, 308875],
+"chartLabels": ["1/12/26", "2/8/26"]
 },
 {
 "name": "WinterBlessedSpawn",
@@ -1367,12 +1367,12 @@
 },
 {
   "name": "Haloheart",
-  "val": 13325,
+  "val": 13000,
   "crate": "valentines",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065117.png?updatedAt=1747837429285",
   "rarity": "mythical",
-"chartData": [2750, 2990, 2925, 3250, 3575, 3900, 6500, 6825, 7475, 7800, 8775, 9750, 12025, 13000, 13325],
-"chartLabels": ["7/18/25", "8/1/25", "8/5/25", "8/29/25", "9/13/25", "9/19/25", "10/9/25", "10/31/25", "11/9/25", "11/25/25", "12/1/25", "12/6/25", "1/12/26"]
+"chartData": [2750, 2990, 2925, 3250, 3575, 3900, 6500, 6825, 7475, 7800, 8775, 9750, 12025, 13000, 1332, 13650],
+"chartLabels": ["7/18/25", "8/1/25", "8/5/25", "8/29/25", "9/13/25", "9/19/25", "10/9/25", "10/31/25", "11/9/25", "11/25/25", "12/1/25", "12/6/25", "1/12/26", "2/7/26"]
 },
 {
   "name": "Starrynight",
@@ -1588,7 +1588,7 @@
 },
 {
   "name": "JackOLantern",
-  "val": 29250,
+  "val": 24375,
   "crate": "jack",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065615.png?updatedAt=1747837507316",
 "rarity": "legendary"
@@ -1653,7 +1653,7 @@
 },
 {
   "name": "Hitman",
-  "val": 21125,
+  "val": 19500,
   "crate": "guide",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20070246.png?updatedAt=1747837531713",
 "rarity": "legendary"
