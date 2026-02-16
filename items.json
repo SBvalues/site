@@ -744,11 +744,11 @@
 },
 {
 "name": "WinterWonderland",
-"val": 29250,
+"val": 27625,
 "crate": "frost",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202026-01-12%20151643.png",
 "rarity": "mythical",
-"chartData": [32500, 30875, 29250],
+"chartData": [32500, 30875, 27625],
 "chartLabels": ["1/12/26", "2/8/26", "2/15/26"]
 },
 {
