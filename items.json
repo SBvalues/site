@@ -1302,7 +1302,7 @@
 },
 {
 "name": "GoldenHarp",
-"val": 682.5,
+"val": 715,
 "crate": "patrick",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065847.png?updatedAt=1747837401066",
 "rarity": "legendary"
@@ -1360,19 +1360,19 @@
 },
 {
   "name": "Glitter",
-  "val": 682.5,
+  "val": 650,
   "crate": "valentines",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065109.png?updatedAt=1747837429142",
 "rarity": "legendary"
 },
 {
   "name": "Haloheart",
-  "val": 13650,
+  "val": 13000,
   "crate": "valentines",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065117.png?updatedAt=1747837429285",
   "rarity": "mythical",
-"chartData": [2925, 3250, 3575, 3900, 6500, 6825, 7475, 7800, 8775, 9750, 12025, 13000, 13650],
-"chartLabels": ["8/5/25", "8/29/25", "9/13/25", "9/19/25", "10/9/25", "10/31/25", "11/9/25", "11/25/25", "12/1/25", "12/6/25", "1/7/26", "2/13/26"]
+"chartData": [2925, 3250, 3575, 3900, 6500, 6825, 7475, 7800, 8775, 9750, 12025, 13000, 13650, 13000],
+"chartLabels": ["8/5/25", "8/29/25", "9/13/25", "9/19/25", "10/9/25", "10/31/25", "11/9/25", "11/25/25", "12/1/25", "12/6/25", "1/7/26", "2/13/26", "2/25/26"]
 },
 {
   "name": "Starrynight",
