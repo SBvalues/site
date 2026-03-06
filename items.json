@@ -681,14 +681,14 @@
 },
 {
 "name": "JingleBell",
-"val": 66,
+"val": 65,
 "crate": "frost",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202026-01-12%20155710.png",
 "rarity": "epic"
 },
 {
 "name": "Starfall",
-"val": 67,
+"val": 97.5,
 "crate": "frost",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202026-01-12%20155718.png",
 "rarity": "epic"
@@ -702,7 +702,7 @@
 },
 {
 "name": "StarfallSpawn",
-"val": 33,
+"val": 32.5,
 "crate": "frost",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202026-01-12%20155636.png",
 "rarity": "epic"
@@ -825,7 +825,7 @@
 },
 {
 "name": "CorruptingMark",
-"val": 61.75,
+"val": 65,
 "crate": "coffin",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-10-27%20185801.png?updatedAt=1761616720280",
 "rarity": "epic"
@@ -839,7 +839,7 @@
 },
 {
 "name": "ZombiePinata",
-"val": 58.5,
+"val": 65,
 "crate": "coffin",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-10-27%20185817.png?updatedAt=1761616720149",
 "rarity": "epic"
@@ -953,21 +953,21 @@
 },
 {
 "name": "Shackled",
-"val": 52,
+"val": 65,
 "crate": "evil-barzil",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-08-15%20075511.png?updatedAt=1755270200910",
 "rarity": "epic"
 },
 {
 "name": "ZeussMight",
-"val": 51,
+"val": 65,
 "crate": "evil-barzil",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-08-15%20075537.png?updatedAt=1755270200915",
 "rarity": "epic"
 },
 {
 "name": "Demolitionist",
-"val": 50,
+"val": 65,
 "crate": "evil-barzil",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-08-15%20075549.png?updatedAt=1755270200949",
 "rarity": "epic"
@@ -1060,21 +1060,21 @@
 },
 {
 "name": "GloomingRunes",
-"val": 50,
+"val": 65,
 "crate": "alchemist",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-27%20194812.png?updatedAt=1748404331513",
 "rarity": "epic"
 },
 {
 "name": "CosmicGlitter",
-"val": 52,
+"val": 65,
 "crate": "alchemist",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-27%20194817.png?updatedAt=1748404333952",
 "rarity": "epic"
 },
 {
 "name": "ConjuringInk",
-"val": 51,
+"val": 65,
 "crate": "alchemist",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-27%20194827.png?updatedAt=1748404333917",
 "rarity": "epic"
@@ -1160,21 +1160,21 @@
 },
 {
 "name": "FloralOutburst",
-"val": 57,
+"val": 65,
 "crate": "easter",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20070043.png?updatedAt=1747837359650",
 "rarity": "epic"
 },
 {
 "name": "CarrotBlast",
-"val": 54,
+"val": 65,
 "crate": "easter",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20070050.png?updatedAt=1747837359698",
 "rarity": "epic"
 },
 {
 "name": "Eastereggsplosion",
-"val": 55,
+"val": 65,
 "crate": "easter",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20070055.png?updatedAt=1747837361347",
 "rarity": "epic"
@@ -1267,28 +1267,28 @@
 },
 {
 "name": "BloxyCharms",
-"val": 55,
+"val": 97.5,
 "crate": "patrick",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065814.png?updatedAt=1747837398596",
 "rarity": "epic"
 },
 {
 "name": "PotOGold",
-"val": 56,
+"val": 65,
 "crate": "patrick",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065821.png?updatedAt=1747837398608",
 "rarity": "epic"
 },
 {
 "name": "Pinched",
-"val": 57,
+"val": 65,
 "crate": "patrick",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065827.png?updatedAt=1747837399657",
 "rarity": "epic"
 },
 {
 "name": "GoldenHorseShoe",
-"val": 55.5,
+"val": 65,
 "crate": "patrick",
 "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065832.png?updatedAt=1747837400561",
 "rarity": "epic"
@@ -1353,7 +1353,7 @@
 },
 {
   "name": "CupidsArrow",
-  "val": 43.3,
+  "val": 65,
   "crate": "valentines",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065101.png?updatedAt=1747837428996",
 "rarity": "epic"
@@ -1446,14 +1446,14 @@
 },
 {
   "name": "Snowball",
-  "val": 61.6,
+  "val": 65,
   "crate": "peepmas",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065303.png?updatedAt=1747837472867",
 "rarity": "epic"
 },
 {
   "name": "NorthernStar",
-  "val": 65,
+  "val": 97.5,
   "crate": "peepmas",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065310.png?updatedAt=1747837472948",
 "rarity": "epic"
@@ -1560,21 +1560,21 @@
 },
 {
   "name": "CrimsonSplash",
-  "val": 2925,
+  "val": 1300,
   "crate": "jack",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065530.png?updatedAt=1747837507085",
 "rarity": "epic"
 },
 {
   "name": "Batty",
-  "val": 1700,
+  "val": 1300,
   "crate": "jack",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065536.png?updatedAt=1747837506996",
 "rarity": "epic"
 },
 {
   "name": "Abyss",
-  "val": 2600,
+  "val": 1300,
   "crate": "jack",
   "url": "https://ik.imagekit.io/qhig1xz2i/Screenshot%202025-05-21%20065543.png?updatedAt=1747837507172",
 "rarity": "epic"
