@@ -457,12 +457,14 @@ button {
 .gold {
     color: gold;
     margin-bottom: -20px;
+    text-shadow: 0 0 7px gold;
 }
 .rarity {
     color: purple;
     display: flex;
     align-items: center;
     margin-top: -10px;
+    text-shadow: 0 0 10px purple;
 }
 .hit-effect-info {
     display: flex;
@@ -506,11 +508,11 @@ button {
         rgb(96, 8, 115),
         rgb(255, 13, 178)
     );
-    border: 1px solid black;
     cursor: pointer;
     border-radius: 3px;
     padding: 2px;
-    box-shadow: 3px 3px 2px -2px black;
+    border: none;
+    box-shadow: 0 0 7px purple;
 }
 .fav-btn, .chart-btn {
     background: linear-gradient(
@@ -518,11 +520,11 @@ button {
     rgb(115, 95, 8),
     rgb(229, 229, 12)
     );
-    border: 1px solid black;
+    border: none;
     cursor: pointer;
     border-radius: 3px;
     padding: 2px;
-    box-shadow: 3px 3px 2px -2px black;
+    box-shadow: 0 0 4px gold;
 }
 .chart-btn {
     margin-top: 5px;
