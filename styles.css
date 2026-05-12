@@ -454,7 +454,7 @@ button {
 .hit-effect:hover {
     transform: translateY(2px);
 }
-.gold {
+.go {
     color: gold;
     margin-bottom: -20px;
     text-shadow: 0 0 7px gold;
