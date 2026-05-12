@@ -175,7 +175,7 @@ let favArr = [];
             <div class="hit-effect">
                 <img src="${item.url}">
                 <span class="rarity"><i class="fa fa-gem"></i><p>${item.rarity}</p></span>
-                <span class="hit-effect-info gold"><i class="fa fa-coins"></i><p>${item.val}</p></span>
+                <span class="hit-effect-info go"><i class="fa fa-coins"></i><p>${item.val}</p></span>
                 <hr style="width: 80%; border-color: black">
                 <button class="fav-btn ${item.name}">Favorite</button>
                 <button class="add" data-rare="${item.rarity}" data-type="${item.name}" data-num="${item.val}">Add</button>
@@ -186,7 +186,7 @@ let favArr = [];
             <div class="hit-effect">
                 <img src="${item.url}">
                 <span class="rarity"><i class="fa fa-gem"></i><p>${item.rarity}</p></span>
-                <span class="hit-effect-info gold"><i class="fa fa-coins"></i><p>${item.val}</p></span>
+                <span class="hit-effect-info go"><i class="fa fa-coins"></i><p>${item.val}</p></span>
                 <hr style="width: 80%; border-color: black">
                 <button class="fav-btn ${item.name}">Favorite</button>
                 <button class="add" data-rare="${item.rarity}" data-type="${item.name}" data-num="${item.val}">Add</button>
